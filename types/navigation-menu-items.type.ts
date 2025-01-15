@@ -1,5 +1,6 @@
-type NavigationMenuItem = {
-    title: string;
+export type NavigationMenuItem = {
+    id: number,
+    label: string;
     href: string;
   };
   

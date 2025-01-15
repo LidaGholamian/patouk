@@ -1,6 +1,5 @@
 import React from "react";
 import { categories } from "../../../../data/categories";
-import { LiaAddressCard } from "react-icons/lia";
 
 export const Navbar: React.FC = () => {
   return (
