@@ -43,6 +43,8 @@ export const tailwindColors: {[key: string]: string} = {
     "error-content": generateForegroundColorFrom("#f87272"),
     "gradient-first": "#34eaa0",
     "gradient-second": "#0fa2e9",
+    Gainsboro: "#DCDCDC",
+    gray: "#A4A4A4"
 }
 
 const config: Config = {

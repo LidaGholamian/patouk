@@ -21,7 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html dir="rtl" className={vazirmatn.className}>
-      <body className=" min-h-screen grid grid-rows-[80px_1fr_auto] dark:bg-base-100 dark:text-base-content overflow-hidden">
+      <body className=" min-h-screen grid grid-rows-[120px_1fr_auto]">
         <Header />
         <main>{children}</main>
         <Footer />
